@@ -8,3 +8,5 @@
   tasks:
     - name: "Gather Facts"
       ios_facts:
+        gather_subset:
+        - config
