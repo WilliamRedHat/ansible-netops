@@ -7,4 +7,4 @@
 
   tasks:
     - name: "Gather Facts"
-      iosos_facts:
+      ios_facts:
